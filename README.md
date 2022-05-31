@@ -17,3 +17,20 @@ group- Terrorist group which claims the responsibility of attack
 weapon_type- Type of the weapon used                                                                                                                               
 killed- Numeber of people killed in attack                                                                                                                         
 wounded- Number of people injured in Attack                                                                                                                        
+
+
+Conclusion:
+
+After the Year 2003-04 there is sharp increase in the terror attacks throughout the globe.                                                                       
+Year 2014 is where most attack happpen considered the most most violent year for the world in terms of terror attacks.                                           
+United States faced most number of Casualities(Killed+ Bounded) in the world.                                                                                   
+Iraq is a country where most number of terrorist attack happen                                                                                                   
+Middle East and North Africa is a region where most number of terrorist attack happen, follwed by South Asia where second most number of terrorist attack happen 
+Autralia & Oceania is the least prone to terrorist Attacks.                                                                                                     
+After the year 2008, India sees a sharp increase of terrorist attacks ---and 2016 is most violent year for india in terms of terror attacks.                     
+Majority of terror attacks in india are of the kind Bombing/Explosion                                                                                           
+J&K is a state where most number of terrorist attack happen in india followed by Assam and Manipur----- Puducherry is a state where least number of attack happend considered to be safest in terms of terror attacks.                                                                                                     
+Most number of fatalities happen in armed assault and most number of injuries happen in Bombing/Explosion in J&K                                                
+Police is most targeted when terrorist do Bombing/Explosion and Armed Assault                                                                                   
+Most number of attacks happen in the month of August in J&K                                                                                                     
+Most Active Terrorist group is Hizbul Mujahideen.                                                                                                               
